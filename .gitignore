@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+stage-guide.html
+# OpenCode rewrites these on every start
+.opencode/package.json
+.opencode/package-lock.json
+.opencode/node_modules/
+.opencode/.gitignore

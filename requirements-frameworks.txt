@@ -1,0 +1,7 @@
+# The framework file in 05_frameworks/ needs these on top of requirements.txt.
+# Install them only when you run that file; the session does not run it.
+#     pip install -r requirements-frameworks.txt
+langchain==1.4.7
+langchain-core==1.7.0
+langchain-openai==1.7.2
+langgraph==1.2.17
